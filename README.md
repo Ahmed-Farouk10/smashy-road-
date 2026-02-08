@@ -20,6 +20,8 @@ A comprehensive reinforcement learning project implementing and comparing multip
   - +5 for collecting fuel
   - -1 per step
 
+## Firstly Review the report pdf 
+
 ## 🤖 Implemented RL Algorithms
 
 ### 1. **Q-Learning**
