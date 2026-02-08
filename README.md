@@ -6,7 +6,6 @@ A comprehensive reinforcement learning project implementing and comparing multip
 
 **SmashyRoad** is a grid-based game where an agent must navigate from the starting position (2,2) to the goal (9,9) while:
 - Avoiding a greedy police officer that chases the agent
-- Collecting fuel bonuses for +5 reward
 - Managing step penalties and collision avoidance
 
 ### Game Mechanics
