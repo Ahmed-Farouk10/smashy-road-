@@ -180,19 +180,11 @@ Interactive demo showing all agents in action with:
 |---------|:----------:|:---------------:|:-----------:|
 | **Learning Type** | Model-free | Model-based | Model-free |
 | **Exploration** | ε-greedy | N/A (DP) | UCB1 |
-| **Training Time** | ~2 min | Instant | ~1 min |
 | **Optimality** | Approximate | ✓ Guaranteed | Approximate |
 | **Scalability** | Good | Limited | Good |
 | **Win Rate** | 62% | 100% | 65% |
 
-## 🎯 Future Improvements
 
-- [ ] Deep Q-Network (DQN) implementation
-- [ ] Actor-Critic methods
-- [ ] Larger grid sizes and more complex environments
-- [ ] Visualization of agent decision-making
-- [ ] Real-time training monitoring
-- [ ] Multi-agent scenarios
 
 ## 📚 Learning Resources
 
@@ -213,11 +205,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Created as an Applied Machine Learning (AML) project exploring practical implementations of classic and advanced RL algorithms.
 
-## 📞 Contact & Support
 
-For questions or issues, please open a GitHub issue or contact the project maintainers.
-
----
-
-**Last Updated**: February 2026  
-**Project Status**: ✅ Complete (Training & Evaluation Phase)
